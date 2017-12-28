@@ -34,6 +34,10 @@ Large Fires
 -----------
 Large buildings, buildings with people inside, forest fires, and similar places may be targeted with arson provided there are at least five firefighters online.
 
+Kidnapping
+===========
+If planning to leave a character to starve to death, one must have a CK application accepted on the character. Otherwise there must be roleplay intended to free the character/feed the character.
+
 Property Break-Ins & Robbery & Theft
 ====================================
 If administrative intervention is necessary to complete a robbery or theft, such as unlocking a door that was kicked in, it must adhere to the following rules and needs administrative approval. If a door was left open for example and you just walked in, you do not need to follow the rules below or approval.
