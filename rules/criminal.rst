@@ -36,7 +36,7 @@ Large buildings, buildings with people inside, forest fires, and similar places 
 
 Kidnapping
 ===========
-If planning to leave a character to starve to death, one must have a CK application accepted on the character. Otherwise there must be roleplay intended to free the character/feed the character.
+If planning to leave a character to starve to death, one must have a CK application accepted on the character. Otherwise there must be roleplay intended to free/feed the character.
 
 Property Break-Ins & Robbery & Theft
 ====================================
